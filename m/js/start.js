@@ -17,6 +17,7 @@ function tagchoose(_tag,_cname){
     $('#tags_copy').show();
     $('#tags_copy_editer').val(_tag);
     $('#tags_copy_cname').html(_cname);
+    $('#tag_length').html(_tag.length);
 }
 function typechoose(_type){
     $('#types').hide();
