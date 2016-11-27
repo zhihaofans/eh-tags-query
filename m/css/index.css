@@ -1,0 +1,48 @@
+body, html {
+  height: 100%;
+  -webkit-tap-highlight-color: transparent;
+}
+.mobile-title {
+  text-align: center;
+  font-size: 34px;
+  color: #3cc51f;
+  font-weight: 400;
+  margin: 0 15%;
+}
+
+.mobile-text-center {
+  text-align: center;
+}
+
+.mobile-sub-title {
+  text-align: center;
+  color: #888;
+  font-size: 14px;
+}
+
+.mobile-header {
+  padding: 35px 0;
+}
+
+.mobile-content-padded {
+  padding: 15px;
+}
+
+.mobile-second-title {
+  text-align: center;
+  font-size: 24px;
+  color: #3cc51f;
+  font-weight: 400;
+  margin: 0 15%;
+}
+
+footer {
+  text-align: center;
+  font-size: 14px;
+  padding: 20px;
+}
+
+footer a {
+  color: #999;
+  text-decoration: none;
+}

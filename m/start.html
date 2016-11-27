@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>EH</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<link rel="stylesheet" href="//cdn.bootcss.com/weui/0.4.3/style/weui.min.css">
+<link rel="stylesheet" href="//cdn.bootcss.com/jquery-weui/0.8.2/css/jquery-weui.css">
+<link rel="stylesheet" href="css/index.css">
+<link rel="shortcut icon" href="../favicon.ico" />
+</head>
+<body ontouchstart="">
+<header class="mobile-header">    
+	<h1 id='index_title' class="mobile-title">EH-tags</h1>
+    <h1 class="mobile-title"><a id='tags_back' style="display: none;">返回</a></h1>
+</header>
+<!-- 分类 -->
+  <div class="bd" id="types"> 
+      <div class="weui_cells weui_cells_access" id='types_result'>
+          <!-- 这里是内容 -->
+      </div>
+  </div>  
+<!-- TAG结果 -->
+  <div class="bd" id="tags" style="display: none;">
+      <div class="weui_cells weui_cells_access" id='tags_result'>
+          <!-- 这里是内容 -->
+      </div>
+  </div> 
+<!-- TAG复制界面 -->
+  <div class="bd" id="tags_copy" style="display: none;">
+    <!-- 这里是内容 -->
+    <div class="weui_cells_title" id='tags_copy_cname'></div>
+    <div class="weui_cells weui_cells_form">
+      <div class="weui_cell">
+        <div class="weui_cell_bd weui_cell_primary">
+          <textarea class="weui_textarea" id='tags_copy_editer' placeholder="" rows="3"></textarea>
+          <div class="weui_textarea_counter"><span>0</span>/200</div>
+        </div>
+      </div>
+    </div>
+    <a href="javascript:;" id='tags_copy_back' class="weui_btn weui_btn_primary">返回</a>
+  </div>
+<script src="//cdn.bootcss.com/jquery/2.0.3/jquery.min.js"></script>
+<!-- <script src="js/jquery.qrcode.min.js"></script> -->
+<script src="//cdn.bootcss.com/jquery-weui/0.8.2/js/jquery-weui.js"></script>
+<!-- <script src="js//api.js"></script> -->
+<script src="js/start.js"></script>
+</body>
+</html>
