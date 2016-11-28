@@ -9,4 +9,23 @@
 - PC页面: `待制作` (懒，手机页面凑合着用吧)
 - 手机页面: 使用了[`jQuery-weui`](https://github.com/lihongxun945/jquery-weui)
 
-TAG数据来自 [`https://github.com/Mapaler/EhTagTranslator`](https://github.com/Mapaler/EhTagTranslator)
+*TAG数据来自* : [`https://github.com/Mapaler/EhTagTranslator`](https://github.com/Mapaler/EhTagTranslator)
+
+
+# 更新日志:
+
+### 手机页面
+
+*V0.2*:
+
+- 修改了复制方式
+- TAG列表改为`popup`形式
+- 获取文件在文件路径最后加入时间避免数据更新延迟(因为demo用了cdn)
+
+*V0.1.1*:
+
+- 修复了BUG与单词拼写问题
+
+*V0.1*:
+
+- 初始版本
