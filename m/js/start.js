@@ -10,6 +10,7 @@ var
     json_data = {};
 //URL跳转
 window.addEventListener("popstate", function(e) {
+    $.closeModal();
     switch (e.state.area) {
         case 'showType':
             showtypes();
@@ -20,7 +21,6 @@ window.addEventListener("popstate", function(e) {
     }
 });
 function typechoose(type) {
-    curr_type = type;
     function addItem(field) {
         var cname = field.cname.replace('<br>','');
         if (cname.indexOf('<img')!==-1) {
@@ -40,6 +40,7 @@ function typechoose(type) {
         item += '</div></a>';
         tags_list.append(item);
     }
+    curr_type = type;
     var state = {
         area: 'showTags',
         type: type
