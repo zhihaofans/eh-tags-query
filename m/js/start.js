@@ -57,11 +57,13 @@ function typechoose(type) {
     if (typeof json_data[type] !== 'undefined') {
         json_data[type].tags.forEach(addItem);
         $.hideLoading();
+        tags_bar.hide().fadeIn();
     } else {
         $.getJSON('../api/tags/' + type + '.json').success(function(items){
             json_data[type] = items;
             items.tags.forEach(addItem);
             $.hideLoading();
+            tags_bar.hide().fadeIn();
         }).error(function(){
             $.hideLoading();
             $.toptip("加载失败", "error");
@@ -109,6 +111,7 @@ function showtypes() {
 btn_back_to_type.click(showtypes);
 
 $(function(){
+    var hash = window.location.hash;
     var state = {area: 'showType'};
     window.history.pushState(state, '选择分类', '#choose_type');
     document.title = '选择分类';
@@ -129,6 +132,9 @@ $(function(){
             types_list.append(item + "\n");
         });
         $.hideLoading();
+        if (hash.substr(0, 6)==='#type_') {
+            typechoose(hash.substr(6));
+        }
     }).error(function(){
         $.hideLoading();
         $.toptip('获取类别失败', 'error');
