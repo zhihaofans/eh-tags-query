@@ -1,15 +1,11 @@
+$.toast.prototype.defaults.duration = 1200;
 var
     index_title = $('#index_title'),
     types_bar = $('#types'),
     types_list = $('#types_result'),
     tags_bar = $('#tags'),
     tags_list = $('#tags_result'),
-    copy_bar = $('#tags_copy'),
-    tag_copy_cname = $('#tag_copy_cname'),
-    tag_copy_editer = $('#tag_copy_editer'),
-    tag_copy_length = $('#tag_length'),
     btn_back_to_type = $('#btn_back_to_type'),
-    btn_copy_back = $('#btn_copy_back'),
     curr_type = '',
     json_data = {};
 //URL跳转
@@ -21,13 +17,7 @@ window.addEventListener("popstate", function(e) {
         case 'showTags':
             typechoose(e.state.type);
             break;
-        case 'copyTag':
-            tagchoose(e.state.tag, e.state.cname);
-            break;
     }
-});
-btn_copy_back.click(function(){
-    typechoose(curr_type);
 });
 function typechoose(type) {
     curr_type = type;
@@ -57,11 +47,9 @@ function typechoose(type) {
     window.history.pushState(state, '类别 - ' + type, '#type_' + type);
     document.title = '类别 - ' + type;
     tags_bar.show();
-    copy_bar.hide();
     types_bar.hide();
     index_title.hide();
     btn_back_to_type.show();
-    btn_copy_back.hide();
     tags_list.html('');
     $.showLoading("加载中...");
     //仅加载一次
@@ -81,23 +69,31 @@ function typechoose(type) {
 }
 
 function tagchoose(tag, cname) {
-    var state = {
-        area: 'copyTag',
-        tag: tag,
-        cname: cname
-    };
-    var hash = '#tag_' + tag.replace(' ', '_');
-    window.history.pushState(state, '标签 - ' + tag, hash);
-    document.title = '标签 - ' + tag;
-    tags_bar.hide();
-    copy_bar.show();
-    types_bar.hide();
-    index_title.hide();
-    btn_back_to_type.show();
-    btn_copy_back.show();
-    tag_copy_editer.val(tag);
-    tag_copy_cname.html(cname);
-    tag_copy_length.html(tag.length);
+    $.modal({
+        title: '要复制吗？',
+        text: '<p class="weui-prompt-text">'+cname+'</p><input type="text" class="weui_input weui-prompt-input" id="weui-prompt-input" value="' + tag + '" />',
+        autoClose: false,
+        buttons: [
+            {
+                text: '取消',
+                className: "default",
+                onClick: function () {
+                    $.closeModal();
+                }
+            },
+            {
+                text: '复制',
+                className: "primary",
+                onClick: function() {
+                    $(this).find('input.weui-prompt-input')[0].select();
+                    document.execCommand("Copy");
+                    $.closeModal();
+                    $.toast("复制成功");
+                }
+
+            }
+        ]
+    });
 }
 
 function showtypes() {
@@ -106,10 +102,8 @@ function showtypes() {
     document.title = '选择分类';
     tags_bar.hide();
     types_bar.show();
-    copy_bar.hide();
     index_title.show();
     btn_back_to_type.hide();
-    btn_copy_back.hide();
 }
 btn_back_to_type.click(showtypes);
 
