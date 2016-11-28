@@ -2,7 +2,7 @@
 
 这是一个查询`E-hentai`网站的TAG的中文翻译的网站。
 
-[`这是demo`](http://zhihaofans.com/eh)
+[`这是demo`](http://eh.zhihaofans.com/)
 
 有PC页面和手机页面
 
@@ -15,6 +15,11 @@
 # 更新日志:
 
 ### 手机页面
+
+*V0.2.1*:
+
+- 修改了popup的按钮样式
+- 所有网页跳转在文件路径最后加入时间避免数据更新延迟(因为demo用了cdn)
 
 *V0.2*:
 

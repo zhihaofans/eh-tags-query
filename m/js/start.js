@@ -36,8 +36,7 @@ function typechoose(_type){
     // $('#tags_back').show();
     $("#tags_result_popup_list").html('');
     $.showLoading("加载中...");
-    var nowt=new Date().getTime();
-    $.getJSON("../api/tags/"+_type+".json?t="+nowt.toString(),
+    $.getJSON("../api/tags/"+_type+".json?t="+(new Date().getTime()),
     function(result,status){
         console.log(status);
         if(status=='success'){
@@ -61,8 +60,7 @@ function typechoose(_type){
 $(document).ready(function(){
     $.showLoading("初始化中...");
     $("#types_result").html('');
-    var nowt=new Date().getTime();
-    $.getJSON("../api/types.json?t="+nowt.toString(),
+    $.getJSON("../api/types.json?t="+(new Date().getTime()),
     function(result,status){
         console.log(status);
         if(status=='success'){
