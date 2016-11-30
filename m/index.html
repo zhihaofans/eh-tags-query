@@ -7,27 +7,34 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 <link rel="stylesheet" href="css/weui.min.css">
 <link rel="stylesheet" href="css/jquery-weui.css">
-<link rel="stylesheet" href="css/index.css">
 <link rel="shortcut icon" href="../favicon.ico" />
+<style>
+  a:hover{text-decoration:underline}
+  p{line-height:1.1em}
+  @media screen and (max-width: 767px) {
+    a.enter{font-size:25px!important}
+    p.waining{font-size:12px}
+  }
+</style>
 </head>
 <body ontouchstart="">
-<!-- 分类 -->
   <div class="bd" id="types"> 
     <div class="weui_msg">
       <div class="weui_icon_area"><i class="weui_icon_warn weui_icon_msg"></i></div>
       <div class="weui_text_area">
-        <h2 class="weui_msg_title">Adult Warning</h2>
-        <p class="weui_msg_desc">本站点仅供成年人浏览,<br>请确认你已到达成年人的年龄。<br>(以当地/国家法律规定年龄为准)</p>
-      </div>
-      <div class="weui_opr_area">
-        <p class="weui_btn_area">
-          <a href="javascript:;" class="weui_btn weui_btn_primary" onclick='$.alert("Welcome~","^_^",function(){location.href="start.html"});'>确定</a>
-          <a href="javascript:;" class="weui_btn weui_btn_default" onclick='$.alert("Bye~","^_^",function(){location.href="//www.google.com"});'>取消</a>
+        <h2 class="weui_msg_title" style="color:red"><b>FBI WARNING</b></h2>
+        <p class="waining">
+          本物品內容可能令人反感；不可將本物品內容派發，傳閱，出售，出租，交給<br>
+          或出借予年齡未滿 18 歲的人士出示，播放或播映。<br>
+          <br>
+          <font size="1" face="Verdana">This article contains material which may offernd and may not be 
+          distributed,<br> circulated, sold, hired, given, lent, shown, 
+          played or projected to a person under the age of 18 years.
+          <br> All models are 18 or 
+          older. </font>
         </p>
       </div>
-      <div class="weui_extra_area">
-        <a href="javascript:;" id='watch_more' onclick='$.alert("有什么详情可以查看的,你是成年人就继续,不是就请退出本网页。")'>查看详情</a>
-      </div>
+          <a class="enter" href="start.html" style="font-size:50px;color:#0000FF"><b>__ 滿 18 歲, 請按此 __</b></a>
     </div>
   </div>  
 <script src="js/jquery.min.js"></script>
