@@ -2,7 +2,7 @@
 
 这是一个查询`E-hentai`网站的TAG的中文翻译的网站。
 
-[`这是demo`](http://eh.zhihaofans.com/)
+([`这是demo`](https://zhihaofans.coding.me/eh-tags-query))
 
 有PC页面和手机页面
 
