@@ -6,7 +6,7 @@
 
 有PC页面和手机页面
 
-- PC页面: 使用了[`MDUI`](http://www.mdui.org) (推荐，移动设备也可以访问)
+- PC页面: 使用了[`MDUI`](http://www.mdui.org) (推荐)
 - 手机页面: 使用了[`jQuery-weui`](https://github.com/lihongxun945/jquery-weui)
 
 *TAG数据来自* : [`https://github.com/Mapaler/EhTagTranslator`](https://github.com/Mapaler/EhTagTranslator)
@@ -15,6 +15,10 @@
 # 更新日志:
 
 ### 手机页面
+
+*V0.3*:
+
+- 添加PC页面，使用了[`MDUI`](http://www.mdui.org) (移动设备也可以访问)
 
 *V0.2.1*:
 
