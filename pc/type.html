@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="renderer" content="webkit" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <title>MDUI</title>
+    <link rel="stylesheet" href="css/mdui.min.css" />
+</head>
+
+<body>
+    <!-- Toolbar -->
+    <div class="mdui-toolbar mdui-color-blue">
+        <a href="javascript:;" class="mdui-btn mdui-btn-icon back-to-index-button"><i class="mdui-icon material-icons">arrow_back</i></a>
+        <span class="mdui-typo-title">MDUI</span>
+        <div class="mdui-toolbar-spacer"></div>
+        <a id='button_refresh' href="javascript:;" class="mdui-btn mdui-btn-icon refresh-button"><i class="mdui-icon material-icons">refresh</i></a>
+        <a href="javascript:;" class="mdui-btn mdui-btn-icon" mdui-menu="{target: '#menu'}"><i class="mdui-icon material-icons">more_vert</i></a>
+        <ul class="mdui-menu" id="menu">
+            <li class="mdui-menu-item">
+                <a href="https://github.com/Mapaler/EhTagTranslator" class="mdui-ripple">数据来源</a>
+            </li>
+            <li class="mdui-divider"></li>
+            <li class="mdui-menu-item" disabled>
+                <a href="javascript:;">更新日期</a>
+            </li>
+            <li class="mdui-menu-item" disabled>
+                <a href="javascript:;">2017-04-06</a>
+            </li>
+        </ul>
+    </div>
+    <!-- Main -->
+    <br />
+    <div class="mdui-container mdui-col-offset-md-3 mdui-col-md-6 mdui-col-offset-sm-2 mdui-col-sm-8" id="card_result" style="margin-bottom:32px;">
+        <div class="mdui-progress" id="progress_auto_one">
+            <div class="mdui-progress-indeterminate"></div>
+        </div>
+        <div class="mdui-card mdui-hoverable">
+            <div id="tag_result" class="mdui-panel mdui-container" mdui-panel="{accordion: true}">
+                <ul class="mdui-list  mdui-list-dense">
+
+                </ul>
+            </div>
+            <div class="mdui-typo">
+                <hr/>
+            </div>
+        </div>
+    </div>
+    <div class="mdui-fab-wrapper mdui-hidden-xs-down" mdui-fab="{trigger: 'hover'}">
+        <button class="mdui-fab mdui-ripple mdui-color-theme-accent mdui-color-blue">
+            <!-- 默认显示的图标 -->
+            <i class="mdui-icon material-icons">more_vert</i>
+            
+            <!-- 在拨号菜单开始打开时，平滑切换到该图标，若不需要切换图标，则可以省略该元素 -->
+            <i class="mdui-icon mdui-fab-opened material-icons">keyboard_arrow_down</i>
+        </button>
+        <div class="mdui-fab-dial">
+            <button class="mdui-fab mdui-fab-mini mdui-ripple mdui-color-blue back-to-index-button"><i class="mdui-icon material-icons">arrow_back</i></button>
+            <button class="mdui-fab mdui-fab-mini mdui-ripple mdui-color-blue refresh-button"><i class="mdui-icon material-icons">refresh</i></button>
+        </div>
+    </div>
+    <script src="js/jquery-3.2.0.min.js"></script>
+    <script src="js/mdui.min.js"></script>
+    <script src="js/init.js"></script>
+    <script>
+    </script>
+    <script>
+        $.getScript("js/type.js", function () { console.log("加载js文件成功") });
+    </script>
+</body>
+
+</html>

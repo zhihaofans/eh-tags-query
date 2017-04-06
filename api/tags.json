@@ -1,0 +1,5615 @@
+[
+    {
+        "name": "artist",
+        "cname": "艺术家",
+        "info": "",
+        "tags": [
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼这就是爱",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "pop",
+                "cname": "POP",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "oouso",
+                "cname": "大嘘",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "peko",
+                "cname": "ぺこ",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "akaza",
+                "cname": "あかざ",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "ishikei",
+                "cname": "石惠",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "endou hiroto",
+                "cname": "遠藤弘土",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "happoubi jin",
+                "cname": "八宝备仁(はっぽうび じん)",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "fujisaki hikari",
+                "cname": "藤崎ひかり",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "ichiri",
+                "cname": "イチリ",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "satou kibi",
+                "cname": "さとうきび",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "nanpuu",
+                "cname": "なんぷぅ",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "yukiu con",
+                "cname": "雪雨こん",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "land sale",
+                "cname": "蘭戸せる",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "emily",
+                "cname": "emily",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "chiri",
+                "cname": "ちり",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "kantoku",
+                "cname": "监督",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "sayori",
+                "cname": "Sayori",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "ideolo",
+                "cname": "ideolo",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▲这就是爱",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "miyahara ayumu",
+                "cname": "宮原歩",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "nishikawa kou",
+                "cname": "西川康",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "narusawa kei",
+                "cname": "なるさわ景",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "akatsuki myuuto",
+                "cname": "赤月みゅうと",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "kisaragi gunma",
+                "cname": "如月群真",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "ohtomo takuji",
+                "cname": "大友卓二",
+                "info": ""
+            }
+        ]
+    },
+    {
+        "name": "female",
+        "cname": "女性",
+        "info": "",
+        "tags": [
+            {
+                "type": 1,
+                "name": "",
+                "cname": "==Age==",
+                "info": "==年龄=="
+            },
+            {
+                "type": 0,
+                "name": "age progression",
+                "cname": "年龄增长",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "age regression",
+                "cname": "返老还童",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "infantilism",
+                "cname": "幼稚型",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "思念峡湾(pining for the fjords)的来源：<a href=\"http://tieba.baidu.com/p/742519695\">英语吧</a>",
+                "info": "也就是放里站啦"
+            },
+            {
+                "type": 0,
+                "name": "lolicon",
+                "cname": "萝莉",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "low lolicon",
+                "cname": "未通过萝莉",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "milf",
+                "cname": "熟女",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "old lady",
+                "cname": "老女人",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "toddlercon",
+                "cname": "幼女",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "==Body==",
+                "info": "==身体=="
+            },
+            {
+                "type": 0,
+                "name": "amputee",
+                "cname": "截肢",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "body modification",
+                "cname": "身体改造",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "conjoined",
+                "cname": "连体",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "doll joints",
+                "cname": "关节娃娃",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "gijinka",
+                "cname": "拟人化",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "inflation",
+                "cname": "腹部膨胀",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "invisible",
+                "cname": "透明",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "multiple arms",
+                "cname": "多臂",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "multiple breasts",
+                "cname": "多对乳房",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "muscle",
+                "cname": "肌肉",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "muscle growth",
+                "cname": "肌肉成长",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "stretching",
+                "cname": "拉伸",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "tailjob",
+                "cname": "尾巴性交",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "wings",
+                "cname": "翅膀",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼ Legs",
+                "info": "腿"
+            },
+            {
+                "type": 0,
+                "name": "garter belt",
+                "cname": "吊袜带",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "kneepit sex",
+                "cname": "膝里性交",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "leg lock",
+                "cname": "钩腿",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "pantyhose",
+                "cname": "连裤袜",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "stockings",
+                "cname": "长筒袜",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "sumata",
+                "cname": "素股",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "legjob",
+                "cname": "腿交",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼ Feet",
+                "info": "足"
+            },
+            {
+                "type": 0,
+                "name": "foot insertion",
+                "cname": "足插入",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "foot licking",
+                "cname": "舔足",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "footjob",
+                "cname": "足交",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "thigh high boots",
+                "cname": "高筒靴",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼ Arms",
+                "info": "手臂"
+            },
+            {
+                "type": 0,
+                "name": "armpit licking",
+                "cname": "腋下舔",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "armpit sex",
+                "cname": "腋交",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "fingering",
+                "cname": "手指伸入",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "fisting",
+                "cname": "拳交",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "handjob",
+                "cname": "打手枪",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "hairy armpits",
+                "cname": "腋毛",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼ Contextual &gt; Infidelity",
+                "info": "文章内容上的 &gt; 不忠"
+            },
+            {
+                "type": 0,
+                "name": "netorare",
+                "cname": "NTR",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "cheating",
+                "cname": "出轨",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "swinging",
+                "cname": "换妻",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼ Gender",
+                "info": "性别"
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "注释：性别类说明",
+                "info": "futanari(扶她，无争议)和shemale(暂定为人妖)在英文里都算transsexual(暂定为变性人)，但中文不好表达，因此规定需要单字时统一用“扶”代指有阴茎的女性。<br>进行性交的行为需要单字时统一用“上”来代替，会产生歧义时请酌情考虑其他雅观一点的词汇。"
+            },
+            {
+                "type": 0,
+                "name": "futanari",
+                "cname": "扶她",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "gender bender",
+                "cname": "性转换",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "body swap",
+                "cname": "换身",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "possession",
+                "cname": "凭依",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "shemale",
+                "cname": "人妖",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "sole dickgirl",
+                "cname": "单扶她",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼ Gender &gt; Inter-gender Relations",
+                "info": "性别 &gt; 跨性别关系"
+            },
+            {
+                "type": 0,
+                "name": "dickgirl on dickgirl",
+                "cname": "扶上扶",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "male on dickgirl",
+                "cname": "男上扶",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼ Multiple Activities",
+                "info": "多人活动"
+            },
+            {
+                "type": 0,
+                "name": "fft threesome",
+                "cname": "女女扶",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "ttf threesome",
+                "cname": "扶扶女",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "group",
+                "cname": "乱交",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼ 暂未分类",
+                "info": "================================================================"
+            },
+            {
+                "type": 0,
+                "name": "shimapan",
+                "cname": "条纹胖次",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "oppai loli",
+                "cname": "巨乳萝莉",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "small breasts",
+                "cname": "贫乳",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "big breasts",
+                "cname": "巨乳",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "huge breasts",
+                "cname": "超乳",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "blowjob",
+                "cname": "口交",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "blowjob face",
+                "cname": "口交颜",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "autofellatio",
+                "cname": "自吹",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "double blowjob",
+                "cname": "双人口交",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "cum swap",
+                "cname": "交换精液",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "gokkun",
+                "cname": "饮精",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "cunnilingus",
+                "cname": "舔阴",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "deepthroat",
+                "cname": "深喉",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "ball sucking",
+                "cname": "吸球",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "anal",
+                "cname": "肛交",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "enema",
+                "cname": "灌肠",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "vaginal sticker",
+                "cname": "阴贴",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "layer cake",
+                "cname": "夹心蛋糕",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "double penetration",
+                "cname": "双重插入",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "triple penetration",
+                "cname": "三重插入",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "all the way through",
+                "cname": "全身插入",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "yuri",
+                "cname": "百合",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "females only",
+                "cname": "纯女性",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "bodystocking",
+                "cname": "连身袜",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "bodysuit",
+                "cname": "连体紧身衣",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "leotard",
+                "cname": "紧身衣",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "kigurumi",
+                "cname": "全身套装",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "latex",
+                "cname": "乳胶紧身衣",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "skinsuit",
+                "cname": "皮物",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "bloomers",
+                "cname": "布鲁马",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "swimsuit",
+                "cname": "泳装",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "school swimsuit",
+                "cname": "死库水",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "bikini",
+                "cname": "比基尼",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "bike shorts",
+                "cname": "自行车短裤",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "hotpants",
+                "cname": "热裤",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "gymshorts",
+                "cname": "运动短裤",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "demon girl",
+                "cname": "恶魔女孩",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "oni",
+                "cname": "鬼 (日本)",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "onahole",
+                "cname": "飞机杯",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "sole female",
+                "cname": "单女主",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "nakadashi",
+                "cname": "中出",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "hairy",
+                "cname": "多毛的",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "prostitution",
+                "cname": "卖淫 / 援交",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "giantess",
+                "cname": "女巨人",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "slave",
+                "cname": "奴隶",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "corruption",
+                "cname": "腐朽（堕落？）",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "public use",
+                "cname": "公众使用",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "eggs",
+                "cname": "生蛋",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "birth",
+                "cname": "出产",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "psssession",
+                "cname": "占据",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "absorb",
+                "cname": "融合",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "unbirth",
+                "cname": "从B钻出来",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "bestiality",
+                "cname": "兽奸",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "mind control",
+                "cname": "精神控制",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "femdom",
+                "cname": "女性支配",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "sweating",
+                "cname": "出汗",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "emotionless sex",
+                "cname": "性冷淡",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "big clit",
+                "cname": "大阴蒂",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "whip",
+                "cname": "鞭打",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "prolapse",
+                "cname": "脱垂",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "gaping",
+                "cname": "敞口",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "milking",
+                "cname": "挤奶",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "masturbation",
+                "cname": "自慰",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "table masturbation",
+                "cname": "桌角自慰",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "grandmother",
+                "cname": "老奶奶",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "facesitting",
+                "cname": "坐脸",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "assjob",
+                "cname": "尻交",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "pantyjob",
+                "cname": "内裤交",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "frottage",
+                "cname": "摩擦淫",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "kissing",
+                "cname": "接吻",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "hairjob",
+                "cname": "发丝交",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "tribadism",
+                "cname": "贝合",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "filming",
+                "cname": "拍摄",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "urethra insertion",
+                "cname": "尿道插入",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "large insertions",
+                "cname": "大的插入",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "cervix penetration",
+                "cname": "宫颈渗透",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "nipple fuck",
+                "cname": "乳穴性交",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "stomach deformation",
+                "cname": "胃部变形",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "navel fuck",
+                "cname": "肚脐奸",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "sex toys",
+                "cname": "性玩具",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "defloration",
+                "cname": "破处",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "glasses",
+                "cname": "眼镜",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "pregnant",
+                "cname": "怀孕",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "lactation",
+                "cname": "哺乳",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "x-ray",
+                "cname": "X光透视",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "magical girl",
+                "cname": "魔法少女",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "tentacles",
+                "cname": "触手",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "schoolgirl uniform",
+                "cname": "女学生制服",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "double vaginal",
+                "cname": "双插阴道",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "triple vaginal",
+                "cname": "三插阴道",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "double anal",
+                "cname": "双插肛门",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "triple anal",
+                "cname": "三插肛门",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "dark skin",
+                "cname": "暗色皮肤",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "maid",
+                "cname": "女仆",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "bukkake",
+                "cname": "精液覆盖",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "rape",
+                "cname": "强奸",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "twins",
+                "cname": "双胞胎",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "elf",
+                "cname": "精灵",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "tomboy",
+                "cname": "假小子",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "big penis",
+                "cname": "巨根",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "huge penis",
+                "cname": "超巨根",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "mother",
+                "cname": "母亲",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "big nipples",
+                "cname": "大乳头",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "big ass",
+                "cname": "大屁股",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "condom",
+                "cname": "避孕套",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "catgirl",
+                "cname": "猫女",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "big balls",
+                "cname": "大的睾丸",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "harpy",
+                "cname": "鸟人",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "exhibitionism",
+                "cname": "漏阴癖",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "ahegao",
+                "cname": "阿黑颜",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "urination",
+                "cname": "放尿",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "vomit",
+                "cname": "呕吐",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "sister",
+                "cname": "姐妹",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "cousin",
+                "cname": "表姐妹",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "paizuri",
+                "cname": "乳交",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "multiple paizuri",
+                "cname": "多人乳交",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "blackmail",
+                "cname": "绑架",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "tights",
+                "cname": "紧身衣",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "big areolae",
+                "cname": "大乳晕",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "daughter",
+                "cname": "女儿",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "speculum",
+                "cname": "扩张器",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "breast expansion",
+                "cname": "乳房膨胀",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "yandere",
+                "cname": "病娇",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "machine",
+                "cname": "机械奸",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "chastity belt",
+                "cname": "贞操带",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "electric shocks",
+                "cname": "电击",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "drugs",
+                "cname": "药物",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "inverted nipples",
+                "cname": "乳头内陷",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "nurse",
+                "cname": "护士",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "teacher",
+                "cname": "教师",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "coach",
+                "cname": "教练",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "tutor",
+                "cname": "家庭教师",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "kimono",
+                "cname": "和服",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "angel",
+                "cname": "天使",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "rimjob",
+                "cname": "舔肛",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "shibari",
+                "cname": "日式捆绑",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "bdsm",
+                "cname": "捆绑SM",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "granddaughter",
+                "cname": "孙女",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "piss drinking",
+                "cname": "饮尿",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "fundoshi",
+                "cname": "六尺褌",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "bondage",
+                "cname": "束缚",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "impregnation",
+                "cname": "受精",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "nose hook",
+                "cname": "鼻吊钩",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "miko",
+                "cname": "巫女",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "torture",
+                "cname": "拷打",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "blood",
+                "cname": "血液",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "guro",
+                "cname": "肢解",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "snuff",
+                "cname": "杀害",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "piercing",
+                "cname": "刺穿",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "eye penetration",
+                "cname": "插入眼睛",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "cum in eye",
+                "cname": "眼射",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "randoseru",
+                "cname": "书包",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "sleeping",
+                "cname": "睡觉",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "necrophilia",
+                "cname": "奸尸",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "menstruation",
+                "cname": "经血",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "chloroform",
+                "cname": "氯仿(迷药)",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "asphyxiation",
+                "cname": "窒息",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "tiara",
+                "cname": "皇冠",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "tube",
+                "cname": "插管",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "syringe",
+                "cname": "注射器",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "incest",
+                "cname": "乱伦",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "dick growth",
+                "cname": "阴茎生长",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "clit growth",
+                "cname": "阴蒂生长",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "nipple expansion",
+                "cname": "乳头膨胀",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "robot",
+                "cname": "机器人",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "ryona",
+                "cname": "哀嚎",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "tickling",
+                "cname": "痒",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "vampire",
+                "cname": "吸血鬼",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "humiliation",
+                "cname": "屈辱",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "fox girl",
+                "cname": "狐狸少女",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "weight gain",
+                "cname": "体重增加",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "oil",
+                "cname": "油",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "big vagina",
+                "cname": "大阴道",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "drunk",
+                "cname": "醉酒",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "monster girl",
+                "cname": "怪物女孩",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "centaur",
+                "cname": "半人马",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "insect",
+                "cname": "昆虫",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "selfcest",
+                "cname": "与自己性交",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "spanking",
+                "cname": "打屁股",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "mind break",
+                "cname": "洗脑",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "apron",
+                "cname": "围裙",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "gothic lolita",
+                "cname": "哥特萝莉",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "crossdressing",
+                "cname": "异性装",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "chinese dress",
+                "cname": "唐装",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "horse cock",
+                "cname": "马根",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "insect girl",
+                "cname": "昆虫女孩",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "body writing",
+                "cname": "身体写作",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "pasties",
+                "cname": "乳贴",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "blindfold",
+                "cname": "遮眼布",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "eyepatch",
+                "cname": "眼罩",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "eyemask",
+                "cname": "眼部面具",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "masked face",
+                "cname": "假面",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "bandages",
+                "cname": "绷带",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "bandaid",
+                "cname": "创可贴",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "parasite",
+                "cname": "寄生",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "draenei",
+                "cname": "德莱尼",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "nipple birth",
+                "cname": "乳头出产",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "autopaizuri",
+                "cname": "自乳交",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "human cattle",
+                "cname": "乳牛女",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "cow",
+                "cname": "牛",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "cowgirl",
+                "cname": "牛女孩",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "cannibalism",
+                "cname": "自相残杀",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "coprophagia",
+                "cname": "食粪",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "scat",
+                "cname": "放屎",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "farting",
+                "cname": "放屁",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "smell",
+                "cname": "嗅闻",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "bbw",
+                "cname": "BBW",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "mecha girl",
+                "cname": "机甲少女",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "dicknipples",
+                "cname": "阴茎乳头",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "cum bath",
+                "cname": "精液浴",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "lizard girl",
+                "cname": "蜥蜴女孩",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "harem",
+                "cname": "后宫",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "bunny girl",
+                "cname": "兔女郎",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "sundress",
+                "cname": "夏装",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "niece",
+                "cname": "侄女",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "haigure",
+                "cname": "高叉泳装",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "long tongue",
+                "cname": "长长的舌头",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "lingerie",
+                "cname": "情趣内衣",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "human pet",
+                "cname": "人宠",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "breast feeding",
+                "cname": "哺乳",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "bride",
+                "cname": "新娘",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "minigirl",
+                "cname": "迷你女孩",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "brain fuck",
+                "cname": "脑交",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "slime",
+                "cname": "粘液",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "pig girl",
+                "cname": "猪女",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "diaper",
+                "cname": "尿布",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "pole dancing",
+                "cname": "钢管舞",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "unusual pupils",
+                "cname": "异瞳",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "collar",
+                "cname": "项圈",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "gyaru",
+                "cname": "辣妹",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "aunt",
+                "cname": "阿姨",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "tall girl",
+                "cname": "高个女",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "slime girl",
+                "cname": "史莱姆女孩",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "wolf girl",
+                "cname": "狼女孩",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "dog girl",
+                "cname": "狗女孩",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "horse girl",
+                "cname": "马女孩",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "snake girl",
+                "cname": "蛇女",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "orc",
+                "cname": "兽人",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "pig",
+                "cname": "猪",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "furry",
+                "cname": "毛皮",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "gag",
+                "cname": "口塞",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "freckles",
+                "cname": "雀斑",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "tanlines",
+                "cname": "晒痕",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "business suit",
+                "cname": "西装",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "tracksuit",
+                "cname": "运动服",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "stuck in wall",
+                "cname": "卡在墙上",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "glory hole",
+                "cname": "寻欢洞",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "wormhole",
+                "cname": "虫洞",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "shared senses",
+                "cname": "感官共享",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "ghost",
+                "cname": "幽灵",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "waiter",
+                "cname": "男侍者",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "waitress",
+                "cname": "女侍者",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "multiple penises",
+                "cname": "鸡鸡复鸡鸡",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "cheerleader",
+                "cname": "拉拉队员",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "heterochromia",
+                "cname": "异色瞳",
+                "info": ""
+            }
+        ]
+    },
+    {
+        "name": "male",
+        "cname": "男性",
+        "info": "",
+        "tags": [
+            {
+                "type": 1,
+                "name": "",
+                "cname": "==Age==",
+                "info": "==年龄=="
+            },
+            {
+                "type": 0,
+                "name": "age progression",
+                "cname": "年龄增长",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "age regression",
+                "cname": "返老还童",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "dilf",
+                "cname": "熟男",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "infantilism",
+                "cname": "幼稚型",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "low shotacon",
+                "cname": "未通过正太",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "old man",
+                "cname": "老人",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "shotacon",
+                "cname": "正太",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "toddlercon",
+                "cname": "幼儿",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "==Body==",
+                "info": "==身体=="
+            },
+            {
+                "type": 0,
+                "name": "amputee",
+                "cname": "截肢",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "body modification",
+                "cname": "身体改造",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "conjoined",
+                "cname": "连体",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "doll joints",
+                "cname": "关节娃娃",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "gijinka",
+                "cname": "拟人化",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "inflation",
+                "cname": "腹部膨胀",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "invisible",
+                "cname": "透明",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "multiple arms",
+                "cname": "多臂",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "muscle",
+                "cname": "肌肉",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "muscle growth",
+                "cname": "肌肉成长",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "stretching",
+                "cname": "拉伸",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "tailjob",
+                "cname": "尾巴性交",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "wings",
+                "cname": "翅膀",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼ Body",
+                "info": "身体"
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "&gt; Skin",
+                "info": "皮肤"
+            },
+            {
+                "type": 0,
+                "name": "dark skin",
+                "cname": "肤色黝黑",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "&gt; Weight",
+                "info": "重量"
+            },
+            {
+                "type": 0,
+                "name": "bbm",
+                "cname": "胖男人",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼ Legs",
+                "info": "腿"
+            },
+            {
+                "type": 0,
+                "name": "pantyhose",
+                "cname": "连裤袜",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "stockings",
+                "cname": "长筒袜",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼ Gender",
+                "info": "性别"
+            },
+            {
+                "type": 0,
+                "name": "cuntboy",
+                "cname": "猫男",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "feminization",
+                "cname": "女性化",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼ Gender &gt; Inter-gender Relations",
+                "info": "性别 &gt; 跨性别关系"
+            },
+            {
+                "type": 0,
+                "name": "gender bender",
+                "cname": "性转换",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "transformation",
+                "cname": "变身",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "body swap",
+                "cname": "换身",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "possession",
+                "cname": "凭依",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "dickgirl on male",
+                "cname": "扶上男",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼ Multiple Activities",
+                "info": "多人活动"
+            },
+            {
+                "type": 0,
+                "name": "group",
+                "cname": "乱交",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼ Contextual &gt; Infidelity",
+                "info": "文章内容上的 &gt; 不忠"
+            },
+            {
+                "type": 0,
+                "name": "netorare",
+                "cname": "NTR",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "cheating",
+                "cname": "出轨",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "swinging",
+                "cname": "换妻",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼ 暂未分类",
+                "info": "================================================================"
+            },
+            {
+                "type": 0,
+                "name": "brother",
+                "cname": "兄弟",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "cousin",
+                "cname": "表兄弟",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "yaoi",
+                "cname": "男同",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "males only",
+                "cname": "纯男性",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "anal",
+                "cname": "肛交",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "double anal",
+                "cname": "双棒入菊",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "frottage",
+                "cname": "阴茎摩擦",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "sole male",
+                "cname": "单男主",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "demon",
+                "cname": "恶魔",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "layer cake",
+                "cname": "夹心蛋糕",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "blowjob",
+                "cname": "口交",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "bodystocking",
+                "cname": "连身袜",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "foot licking",
+                "cname": "舔足",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "pig man",
+                "cname": "猪男",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "orc",
+                "cname": "兽人",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "pig",
+                "cname": "猪",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "bull",
+                "cname": "牛",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "cowman",
+                "cname": "牛男",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "furry",
+                "cname": "毛皮",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "gag",
+                "cname": "口塞",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "freckles",
+                "cname": "雀斑",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "tanlines",
+                "cname": "晒痕",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "lingerie",
+                "cname": "情趣内衣",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "blindfold",
+                "cname": "遮眼布",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "eyepatch",
+                "cname": "眼罩",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "eyemask",
+                "cname": "眼部面具",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "masked face",
+                "cname": "假面",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "bandages",
+                "cname": "绷带",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "bandaid",
+                "cname": "创可贴",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "business suit",
+                "cname": "西装",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "breast feeding",
+                "cname": "哺乳",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "tracksuit",
+                "cname": "运动服",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "stuck in wall",
+                "cname": "卡在墙上",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "glory hole",
+                "cname": "寻欢洞",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "wormhole",
+                "cname": "虫洞",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "shared senses",
+                "cname": "感官共享",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "virginity",
+                "cname": "丧失童贞",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "crossdressing",
+                "cname": "异性装",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "teacher",
+                "cname": "教师",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "coach",
+                "cname": "教练",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "tutor",
+                "cname": "家庭教师",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "glasses",
+                "cname": "眼镜",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "masturbation",
+                "cname": "自慰",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "schoolgirl uniform",
+                "cname": "女学生制服",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "tomgirl",
+                "cname": "伪娘",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "ghost",
+                "cname": "幽灵",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "condom",
+                "cname": "避孕套",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "waiter",
+                "cname": "男侍者",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "waitress",
+                "cname": "女侍者",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "schoolboy uniform",
+                "cname": "男生校服",
+                "info": ""
+            }
+        ]
+    },
+    {
+        "name": "parody",
+        "cname": "原作",
+        "info": "",
+        "tags": [
+            {
+                "type": 0,
+                "name": "touhou project",
+                "cname": "东方Project",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "moetan",
+                "cname": "萌单",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼Key社作品",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "clannad",
+                "cname": "CLANNAD",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "angel beats",
+                "cname": "Angel Beats!",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "charlotte",
+                "cname": "Charlotte",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▲Key社作品",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "ore no imouto ga konna ni kawaii wake ga nai",
+                "cname": "我的妹妹不可能那么可爱",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "toaru majutsu no index",
+                "cname": "魔法禁书目录",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "toaru kagaku no railgun",
+                "cname": "某科学的超电磁炮",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "kantai collection",
+                "cname": "舰队Collection",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "pokemon",
+                "cname": "精灵宝可梦",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "higurashi no naku koro ni",
+                "cname": "寒蝉鸣泣之时",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "saki",
+                "cname": "天才麻将少女",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "puella magi madoka magica",
+                "cname": "魔法少女小圆",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "toradora",
+                "cname": "龙与虎",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "lotte no omocha",
+                "cname": "露蒂的玩具",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "sword art online",
+                "cname": "刀剑神域",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "to love-ru",
+                "cname": "To LOVEる",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "ro-kyu-bu",
+                "cname": "萝球社",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "tantei opera milky holmes",
+                "cname": "侦探歌剧 少女福尔摩斯",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "hyperdimension neptunia",
+                "cname": "超次元游戏：海王星",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "love live",
+                "cname": "LoveLive!",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "love live sunshine",
+                "cname": "Love Live! Sunshine!!",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "sora no otoshimono",
+                "cname": "天降之物",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "boku wa tomodachi ga sukunai",
+                "cname": "我的朋友很少",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "vocaloid",
+                "cname": "V家",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "date a live",
+                "cname": "约会大作战",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "the idolmaster",
+                "cname": "偶像大师",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "my little pony friendship is magic",
+                "cname": "小马宝莉：友谊就是魔法",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "himouto umaru-chan",
+                "cname": "干物妹！小埋",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "bakemonogatari",
+                "cname": "化物語",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "yahari ore no seishun love come wa machigatteiru",
+                "cname": "我的青春恋爱物语果然有问题",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "tengen toppa gurren lagann",
+                "cname": "天元突破",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "cardcaptor sakura",
+                "cname": "魔卡少女樱",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "mayoi neko overrun",
+                "cname": "迷途猫",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "outbreak company",
+                "cname": "萌萌侵略者",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "kyoukai no kanata",
+                "cname": "境界的彼方",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "hataraku maou-sama",
+                "cname": "打工吧！魔王大人",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "haiyore nyaruko-san",
+                "cname": "潜行吧！奈亚子",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "hentai ouji to warawanai neko",
+                "cname": "变态王子与不笑猫",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "nagi no asukara",
+                "cname": "来自风平浪静的明天",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "sekai seifuku bouryaku no zvezda",
+                "cname": "世界征服～谋略之星～",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "no game no life",
+                "cname": "游戏人生",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "barakamon",
+                "cname": "元气囝仔",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "divine gate",
+                "cname": "神圣之门",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "sayonara zetsubou sensei",
+                "cname": "再见！绝望先生",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "highschool of the dead",
+                "cname": "学园默示录",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "gakkou gurashi",
+                "cname": "学园孤岛",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "a channel",
+                "cname": "A频道",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "fate kaleid liner prisma illya",
+                "cname": "魔法少女☆伊莉雅",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "granblue fantasy",
+                "cname": "宏蓝幻想",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "gundam 00",
+                "cname": "机动战士高达 00",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "gundam seed destiny",
+                "cname": "机动战士高达 SEED DESTINY",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "gundam zz",
+                "cname": "机动战士高达 ZZ",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "kiniro mosaic",
+                "cname": "黄金拼图",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "gochuumon wa usagi desu ka",
+                "cname": "请问您今天要来点兔子吗？",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "non non biyori",
+                "cname": "悠哉日常大王",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "oda nobuna no yabou",
+                "cname": "织田信奈的野望",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "tamako market",
+                "cname": "玉子市场",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "yama no susume",
+                "cname": "前进吧！登山少女",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "pripara",
+                "cname": "美妙天堂",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "sora no method",
+                "cname": "天体的秩序",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "accel world",
+                "cname": "加速世界",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "dungeon ni deai o motomeru no wa machigatteiru darou ka",
+                "cname": "在地下城寻求邂逅是否搞错了什么",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "c cube",
+                "cname": "C3-魔方少女",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "shingeki no kyojin",
+                "cname": "进击的巨人",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "onidere",
+                "cname": "鬼骄",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "infinite stratos",
+                "cname": "IS(Infinite Stratos)",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "disgaea",
+                "cname": "魔界战记",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "chuunibyou demo koi ga shitai",
+                "cname": "中二病也要谈恋爱！",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "ano hi mita hana no namae wo bokutachi wa mada shiranai",
+                "cname": "我们仍未知道那天所看见的花的名字。",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "amagi brilliant park",
+                "cname": "甘城光辉游乐园",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "hidan no aria",
+                "cname": "绯弹的亚莉亚",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "steinsgate",
+                "cname": "命运石之门",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "lucky star",
+                "cname": "幸运星",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "zero no tsukaima",
+                "cname": "零之使魔",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "shakugan no shana",
+                "cname": "灼眼的夏娜",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "the melancholy of haruhi suzumiya",
+                "cname": "凉宫春日的忧郁",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "kannagi",
+                "cname": "神薙",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "kashimashi",
+                "cname": "女生爱女生",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "toheart2",
+                "cname": "ToHeart2",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "k-on",
+                "cname": "轻音少女",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "he is my master",
+                "cname": "我的主人",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "code geass",
+                "cname": "叛逆的鲁鲁修",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "naruto",
+                "cname": "火影忍者",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "school rumble",
+                "cname": "校园迷糊大王",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "mahou sensei negima",
+                "cname": "魔法老师",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "neon genesis evangelion",
+                "cname": "新世纪福音战士",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "hidamari sketch",
+                "cname": "向阳素描",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "mahou shoujo lyrical nanoha",
+                "cname": "魔法少女奈叶",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "rosario vampire",
+                "cname": "十字架与吸血鬼",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼ 光美大军",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "pretty cure",
+                "cname": "光之美少女",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "pretty cure splash star",
+                "cname": "光之美少女Splash Star",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "yes precure 5",
+                "cname": "Yes! 光之美少女5",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "fresh precure",
+                "cname": "Fresh 光之美少女!",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "heartcatch precure",
+                "cname": "Heartcatch 光之美少女!",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "suite precure",
+                "cname": "Suite 光之美少女♪",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "smile precure",
+                "cname": "Smile 光之美少女!",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "dokidoki precure",
+                "cname": "心跳！光之美少女",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "happinesscharge precure",
+                "cname": "Happiness Charge 光之美少女!",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "go princess precure",
+                "cname": "Go! Princess 光之美少女",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "maho girls precure",
+                "cname": "魔法使 光之美少女!",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▲ 光美大军",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "jojos bizarre adventure",
+                "cname": "JOJO的奇妙冒险",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "pangya",
+                "cname": "魔法飞球",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "shokugeki no soma",
+                "cname": "食戟之灵",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "working",
+                "cname": "迷糊餐厅",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "kono subarashii sekai ni syukufuku o",
+                "cname": "为美好的世界献上祝福！",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "ore no kanojo to osananajimi ga shuraba sugiru",
+                "cname": "我女友与青梅竹马的惨烈修罗场",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "ore no nounai sentakushi ga gakuen love comedy wo zenryoku de jama shiteiru",
+                "cname": "我的脑内恋碍选项",
+                "info": ""
+            }
+        ]
+    },
+    {
+        "name": "character",
+        "cname": "角色",
+        "info": "",
+        "tags": [
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼萌单 人物",
+                "info": "我已经钦定了，茵可酱只能我来改"
+            },
+            {
+                "type": 0,
+                "name": "ink nijihara",
+                "cname": "虹原茵可",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "pastel ink",
+                "cname": "闪亮茵可",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▲萌单 人物",
+                "info": "我已经钦定了，茵可酱只能我来改"
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼东方Project 人物",
+                "info": "请参照<a href=\"http://thwiki.cc/%E5%AE%98%E6%96%B9%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8\">THBWiki</a>官方角色列表填写"
+            },
+            {
+                "type": 0,
+                "name": "flandre scarlet",
+                "cname": "芙兰朵露·斯卡雷特",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "alice margatroid",
+                "cname": "爱丽丝·玛格特洛依德",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "reimu hakurei",
+                "cname": "博丽灵梦",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "marisa kirisame",
+                "cname": "雾雨魔理沙",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "rumia",
+                "cname": "露米娅",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "cirno",
+                "cname": "琪露诺",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "daiyousei",
+                "cname": "大妖精",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "hong meiling",
+                "cname": "红美铃",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "patchouli knowledge",
+                "cname": "帕秋莉·诺蕾姬",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "koakuma",
+                "cname": "小恶魔",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "sakuya izayoi",
+                "cname": "十六夜咲夜",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "remilia scarlet",
+                "cname": "蕾米莉亚·斯卡雷特",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "letty whiterock",
+                "cname": "蕾迪·霍瓦特罗克",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "chen",
+                "cname": "橙",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "eirin yagokoro",
+                "cname": "八意永琳",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "kanako yasaka",
+                "cname": "八坂神奈子",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "reisen udongein inaba",
+                "cname": "铃仙·优昙华院·因幡",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "rin kaenbyou",
+                "cname": "火焰猫燐",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "satori komeiji",
+                "cname": "古明地觉",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "suwako moriya",
+                "cname": "洩矢诹访子",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "youmu konpaku",
+                "cname": "魂魄妖梦",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "yuyuko saigyouji",
+                "cname": "西行寺幽幽子",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "nitori kawashiro",
+                "cname": "河城荷取",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "byakuren hijiri",
+                "cname": "圣白莲",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "aya shameimaru",
+                "cname": "射命丸文",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "tenshi hinanai",
+                "cname": "比那名居天子",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "wriggle nightbug",
+                "cname": "莉格露·奈特巴格",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "yuuka kazami",
+                "cname": "风见幽香",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "nue houjuu",
+                "cname": "封兽鵺",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "komachi onozuka",
+                "cname": "小野塚小町",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "shikieiki yamaxanadu",
+                "cname": "四季映姬·亚玛萨那度",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "keine kamishirasawa",
+                "cname": "上白泽慧音",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "yukari yakumo",
+                "cname": "八云紫",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "ran yakumo",
+                "cname": "八云蓝",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "fujiwara no mokou",
+                "cname": "藤原妹红",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "kaguya houraisan",
+                "cname": "蓬莱山辉夜",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "mystia lorelei",
+                "cname": "米斯蒂娅·萝蕾拉",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "sanae kochiya",
+                "cname": "东风谷早苗",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "hina kagiyama",
+                "cname": "键山雏",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "shanghai",
+                "cname": "上海(人形)",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "hourai",
+                "cname": "蓬莱(人形)",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "medicine melancholy",
+                "cname": "梅蒂欣·梅兰可莉",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "shinki",
+                "cname": "神绮",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "yumemi okazaki",
+                "cname": "冈崎梦美",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "mima",
+                "cname": "魅魔",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "hata no kokoro",
+                "cname": "秦心",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "junko",
+                "cname": "纯狐",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "kyouko kasodani",
+                "cname": "幽谷响子",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "koishi komeiji",
+                "cname": "古明地恋",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "seija kijin",
+                "cname": "鬼人正邪",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "clownpiece",
+                "cname": "克劳恩皮丝",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "benben tsukumo",
+                "cname": "九十九弁弁",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "yatsuhashi tsukumo",
+                "cname": "九十九八桥",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "kagerou imaizumi",
+                "cname": "今泉影狼",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "raiko horikawa",
+                "cname": "堀川雷鼓",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "sekibanki",
+                "cname": "赤蛮奇",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "shinmyoumaru sukuna",
+                "cname": "少名针妙丸",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "wakasagihime",
+                "cname": "若鹭姬",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "luna child",
+                "cname": "露娜切露德",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "star sapphire",
+                "cname": "斯塔萨菲雅",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "sunny milk",
+                "cname": "桑尼米尔克",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▲东方Project 人物",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼Love Live 人物",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "honoka kousaka",
+                "cname": "高坂穗乃果",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "eri ayase",
+                "cname": "绚濑绘里",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "kotori minami",
+                "cname": "南小鸟",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "umi sonoda",
+                "cname": "园田海未",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "rin hoshizora",
+                "cname": "星空凛",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "maki nishikino",
+                "cname": "西木野真姬",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "nozomi toujou",
+                "cname": "东条希",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "hanayo koizumi",
+                "cname": "小泉花阳",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "nico yazawa",
+                "cname": "矢泽妮可",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "tsubasa kira",
+                "cname": "绮罗翼",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "erena toudou",
+                "cname": "统堂英玲奈",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "anju yuuki",
+                "cname": "优木杏树",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "chika takami",
+                "cname": "高海千歌",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "riko sakurauchi",
+                "cname": "櫻内梨子",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "kanan matsuura",
+                "cname": "松浦果南",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "dia kurosawa",
+                "cname": "黑泽黛雅",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "you watanabe",
+                "cname": "渡边曜",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "yoshiko tsushima",
+                "cname": "津岛善子",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "hanamaru kunikida",
+                "cname": "国木田花丸",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "mari ohara",
+                "cname": "小原鞠莉",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "ruby kurosawa",
+                "cname": "黑泽露比",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▲Love Live 人物",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼舰队Collection-KanColle 人物",
+                "info": "迟早有一天我要死在船（chuang）上<br>看了一下<a href=\"https://zh.moegirl.org/%E8%88%B0%E9%98%9FCollection/%E5%9B%BE%E9%89%B4/%E8%88%B0%E5%A8%98\">萌娘百科上的人物图鉴</a>，发现有**200+**个，让我死了吧<br>以下人物按编号排序"
+            },
+            {
+                "type": 0,
+                "name": "teitoku",
+                "cname": "提督",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "nagato",
+                "cname": "长门",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "mutsu",
+                "cname": "陆奥",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "yukikaze",
+                "cname": "雪风",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "akagi",
+                "cname": "赤城",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "kaga",
+                "cname": "加贺",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "souryuu",
+                "cname": "苍龙",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "hiryuu",
+                "cname": "飞龙",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "shimakaze",
+                "cname": "岛风",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "fubuki",
+                "cname": "吹雪",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "shirayuki",
+                "cname": "白雪",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "murakumo",
+                "cname": "丛云",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "ooi",
+                "cname": "大井",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "kitakami",
+                "cname": "北上",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "kongou",
+                "cname": "金刚",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "hiei",
+                "cname": "比睿",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "haruna",
+                "cname": "榛名",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "kirishima",
+                "cname": "雾岛",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "houshou",
+                "cname": "凤翔",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "tenryuu",
+                "cname": "天龙",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "tatsuta",
+                "cname": "龙田",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "ryuujou",
+                "cname": "龙骧",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "chitose",
+                "cname": "千岁",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "chiyoda",
+                "cname": "千代田",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "myoukou",
+                "cname": "妙高",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "nachi",
+                "cname": "那智",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "ashigara",
+                "cname": "足柄",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "haguro",
+                "cname": "羽黑",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "takao",
+                "cname": "高雄",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "atago",
+                "cname": "爱宕",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "maya",
+                "cname": "摩耶",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "tone",
+                "cname": "利根",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "chikuma",
+                "cname": "筑摩",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "junyou",
+                "cname": "隼鹰",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "akebono",
+                "cname": "曙",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "akatsuki",
+                "cname": "晓",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "hibiki",
+                "cname": "响",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "ikazuchi",
+                "cname": "雷",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "inazuma",
+                "cname": "电",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "hatsuharu",
+                "cname": "初春",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "nenohi",
+                "cname": "子日",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "shigure",
+                "cname": "时雨",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "yuudachi",
+                "cname": "夕立",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "samidare",
+                "cname": "五月雨",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "asashio",
+                "cname": "朝潮",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "shiranui",
+                "cname": "不知火",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "shoukaku",
+                "cname": "翔鹤",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "zuikaku",
+                "cname": "瑞鹤",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "yuubari",
+                "cname": "夕张",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "zuihou",
+                "cname": "瑞凤",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "hatsukaze",
+                "cname": "初风",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "i-19",
+                "cname": "伊19",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "suzuya",
+                "cname": "铃谷",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "kumano",
+                "cname": "熊野",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "i-168",
+                "cname": "伊168",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "i-58",
+                "cname": "伊58",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "i-8",
+                "cname": "伊8",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "yamato",
+                "cname": "大和",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "agano",
+                "cname": "阿贺野",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "noshiro",
+                "cname": "能代",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "yahagi",
+                "cname": "矢矧",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "musashi",
+                "cname": "武藏",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "verniy",
+                "cname": "Верный(响改二)",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "taihou",
+                "cname": "大凤",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "katori",
+                "cname": "香取",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "i-401",
+                "cname": "伊401",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "maruyu",
+                "cname": "まるゆ",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "isokaze",
+                "cname": "矶风",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "urakaze",
+                "cname": "浦风",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "hamakaze",
+                "cname": "滨风",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "bismarck",
+                "cname": "俾斯麦",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "z1",
+                "cname": "Z1",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "z3",
+                "cname": "Z3",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "prinz eugen",
+                "cname": "欧根亲王",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "amatsukaze",
+                "cname": "天津风",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "akashi",
+                "cname": "明石",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "ooyodo",
+                "cname": "大淀",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "tokitsukaze",
+                "cname": "时津风",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "harusame",
+                "cname": "春雨",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "graf zeppelin",
+                "cname": "齐柏林伯爵",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "ro-500",
+                "cname": "吕500",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "kashima",
+                "cname": "鹿岛",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "hoppou seiki",
+                "cname": "北方栖姬",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "wo-class",
+                "cname": "ヲ级(wo酱)",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▲舰队Collection-KanColle 人物",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼偶像大师-THE IDOLM@STER 人物",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "yayoi takatsuki",
+                "cname": "高槻弥生",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "takane shijou",
+                "cname": "四条贵音",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "fumika sagisawa",
+                "cname": "鹭泽文香",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▲偶像大师-THE IDOLM@STER 人物",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼My Little Pony 角色",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "apple bloom",
+                "cname": "小萍花",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "big macintosh",
+                "cname": "大麦哥",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▲My Little Pony 角色",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "asuna yuuki",
+                "cname": "结城明日奈",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "bell cranel",
+                "cname": "贝尔•克朗尼",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "hestia",
+                "cname": "赫斯缇雅",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "emilia",
+                "cname": "爱蜜莉雅",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼为美好的世界献上祝福 角色",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "aqua",
+                "cname": "阿库娅",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "megumin",
+                "cname": "惠惠",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "kazuma satou",
+                "cname": "佐藤和真",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "darkness",
+                "cname": "达克妮丝",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "yunyun",
+                "cname": "悠悠",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "wiz",
+                "cname": "维兹",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "chris",
+                "cname": "克莉丝",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼请问您今天要来点兔子吗？ 角色",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "kokoa hoto",
+                "cname": "保登心爱",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "chino kafuu",
+                "cname": "香风智乃",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "rize tedeza",
+                "cname": "天天座理世",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "chiya ujimatsu",
+                "cname": "宇治松千夜",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "sharo kirima",
+                "cname": "桐间纱路",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "maya jouga",
+                "cname": "条河麻耶",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "megumi natsu",
+                "cname": "奈津惠",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "mocha hoto",
+                "cname": "保登摩卡",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼我的脑内恋碍选项 角色",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "chocolat",
+                "cname": "裘可拉",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "ayame reikadou",
+                "cname": "丽华堂绚女",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "oka yuoji",
+                "cname": "游王子讴歌",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "furano yukihira",
+                "cname": "雪平富良野",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼我女友与青梅竹马的惨烈修罗场 角色",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "chiwa harusaki",
+                "cname": "春咲千和",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "eita kidou",
+                "cname": "季堂锐太",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "masuzu natsukawa",
+                "cname": "夏川真凉",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "himeka akishino",
+                "cname": "秋篠姬香",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "ai fuyuumi",
+                "cname": "冬海爱衣",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼我的妹妹不可能那么可爱 角色",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "kyousuke kousaka",
+                "cname": "高坂京介",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "kirino kousaka",
+                "cname": "高坂桐乃",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "ruri gokou",
+                "cname": "五更琉璃（黑猫）",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "ayase aragaki",
+                "cname": "新垣绫濑",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "saori makishima",
+                "cname": "槙岛沙织（沙织·巴吉纳）",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "kanako kurusu",
+                "cname": "来栖加奈子",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "bridget evans",
+                "cname": "布莉姬·伊凡斯",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "sena akagi",
+                "cname": "赤城濑菜",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "kouhei akagi",
+                "cname": "赤城浩平",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "manami tamura",
+                "cname": "田村麻奈实",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "daisuke kousaka",
+                "cname": "高坂大介",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "tamaki gokou",
+                "cname": "五更珠希",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "hinata gokou",
+                "cname": "五更日向",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼K-ON 角色",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "azusa nakano",
+                "cname": "中野梓",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "jun suzuki",
+                "cname": "铃木纯",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "mio akiyama",
+                "cname": "秋山澪",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "ritsu tainaka",
+                "cname": "田井中律",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "sawako yamanaka",
+                "cname": "山中佐和子",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "tsumugi kotobuki",
+                "cname": "琴吹䌷",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "ui hirasawa",
+                "cname": "平泽忧",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "yui hirasawa",
+                "cname": "平泽唯",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "nodoka manabe",
+                "cname": "真锅和",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "satoshi tainaka",
+                "cname": "田井中聪",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "sumire saitou",
+                "cname": "齐藤堇",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "megumi sokabe",
+                "cname": "曾我部惠",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼我的青春恋爱物语果然有问题 角色",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "yui yuigahama",
+                "cname": "由比滨结衣",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "hachiman hikigaya",
+                "cname": "比企谷八幡",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "yukino yukinoshita",
+                "cname": "雪之下雪乃",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "iroha isshiki",
+                "cname": "一色彩羽",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "hayato hayama",
+                "cname": "叶山隼人",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "saika totsuka",
+                "cname": "户冢彩加",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "haruno yukinoshita",
+                "cname": "雪之下阳乃",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "shizuka hiratsuka",
+                "cname": "平冢静",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼中二病也要谈恋爱 角色",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "yuuta togashi",
+                "cname": "富㭴勇太",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "rikka takanashi",
+                "cname": "小鸟游六花",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "kumin tsuyuri",
+                "cname": "五月七日茴香",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "shinka nibutani",
+                "cname": "丹生谷森夏",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "sanae dekomori",
+                "cname": "凸守早苗",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "satone shichimiya",
+                "cname": "七宫智音",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "touka takanashi",
+                "cname": "小鸟游十花",
+                "info": ""
+            }
+        ]
+    },
+    {
+        "name": "group",
+        "cname": "团队",
+        "info": "",
+        "tags": [
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼ 同人社团",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "electromagneticwave",
+                "cname": "ElectromagneticWave",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "usotsukiya",
+                "cname": "嘘つき屋",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "archetype",
+                "cname": "ARCHETYPE",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "afterschool of the 5th year",
+                "cname": "5年目の放課後",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "tsf no f",
+                "cname": "TSF的F",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "number2",
+                "cname": "Number2",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▲ 同人社团",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼ GAL公司",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "softhouse-seal",
+                "cname": "softhouse-seal",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "devil-seal",
+                "cname": "Devil-seal",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "softhouse-seal grandee",
+                "cname": "softhouse-seal GRANDEE",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "reverse",
+                "cname": "Re:verse",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "moonstone",
+                "cname": "MOONSTONE",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "moonstone cherry",
+                "cname": "MOONSTONE Cherry",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "yuzu soft",
+                "cname": "Yuzu-Soft",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "leaf",
+                "cname": "Leaf",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "key",
+                "cname": "Key",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "alcot",
+                "cname": "ALcot",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "alcot honey comb",
+                "cname": "ALcot Honey Comb",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▲ GAL公司",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼ 其他游戏公司",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "softstar",
+                "cname": "大宇资讯",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "dmm.com",
+                "cname": "DMM.com",
+                "info": ""
+            }
+        ]
+    },
+    {
+        "name": "language",
+        "cname": "语言",
+        "info": "",
+        "tags": [
+            {
+                "type": 0,
+                "name": "albanian",
+                "cname": "阿尔巴尼亚语",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "arabic",
+                "cname": "阿拉伯语",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "bengali",
+                "cname": "孟加拉语",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "catalan",
+                "cname": "加泰罗尼亚语",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "chinese",
+                "cname": "中国语",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "czech",
+                "cname": "捷克语",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "danish",
+                "cname": "丹麦语",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "dutch",
+                "cname": "荷兰语",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "english",
+                "cname": "英语",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "esperanto",
+                "cname": "世界语",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "estonian",
+                "cname": "爱沙尼亚语",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "finnish",
+                "cname": "芬兰语",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "french",
+                "cname": "法语",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "german",
+                "cname": "德语",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "greek",
+                "cname": "希腊语",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "hebrew",
+                "cname": "希伯来语",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "hindi",
+                "cname": "印地语",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "hungarian",
+                "cname": "匈牙利语",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "indonesian",
+                "cname": "印度尼西亚语",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "italian",
+                "cname": "意大利语",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "japanese",
+                "cname": "日语",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "korean",
+                "cname": "朝鲜语",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "norwegian",
+                "cname": "挪威语",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "polish",
+                "cname": "波兰语",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "portuguese",
+                "cname": "葡萄牙语",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "romanian",
+                "cname": "罗马尼亚语",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "russian",
+                "cname": "俄语",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "slovak",
+                "cname": "斯洛伐克语",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "spanish",
+                "cname": "西班牙语",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "swedish",
+                "cname": "瑞典语",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "tagalog",
+                "cname": "菲律宾语",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "thai",
+                "cname": "泰文语",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "turkish",
+                "cname": "土耳其语",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "ukrainian",
+                "cname": "乌克兰语",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "vietnamese",
+                "cname": "越南语",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "==技术性标签==",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "speechless",
+                "cname": "无言的",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "text cleaned",
+                "cname": "文字清除",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "translated",
+                "cname": "翻译版",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "rewrite",
+                "cname": "已重写",
+                "info": ""
+            }
+        ]
+    },
+    {
+        "name": "reclass",
+        "cname": "重新分类",
+        "info": "",
+        "tags": [
+            {
+                "type": 0,
+                "name": "gamecg",
+                "cname": "游戏CG集",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "artistcg",
+                "cname": "画师图集",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "asianporn",
+                "cname": "亚洲色情",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "cosplay",
+                "cname": "CosPlay",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "doujinshi",
+                "cname": "同人志",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "imageset",
+                "cname": "图片集",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "manga",
+                "cname": "漫画",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "misc",
+                "cname": "杂项",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "non-h",
+                "cname": "无H",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "western",
+                "cname": "西方的",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "private",
+                "cname": "私人的",
+                "info": ""
+            }
+        ]
+    },
+    {
+        "name": "misc",
+        "cname": "杂项",
+        "info": "",
+        "tags": [
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼ Multiple Activities",
+                "info": "多人活动"
+            },
+            {
+                "type": 0,
+                "name": "mmt threesome",
+                "cname": "男男扶",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "mtf threesome",
+                "cname": "男扶女",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "ttm threesome",
+                "cname": "扶扶男",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "group",
+                "cname": "乱交",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼ 暂未分类",
+                "info": "================================================================"
+            },
+            {
+                "type": 0,
+                "name": "full color",
+                "cname": "全彩色",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "tankoubon",
+                "cname": "单行本",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "non-nude",
+                "cname": "无裸体",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "artbook",
+                "cname": "画师册",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "ffm threesome",
+                "cname": "嫐",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "mmf threesome",
+                "cname": "嬲",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "body swap",
+                "cname": "换身",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "incest",
+                "cname": "乱伦",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "inseki",
+                "cname": "姻亲",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "uncensored",
+                "cname": "无修正",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "mosaic censorship",
+                "cname": "马赛克修正",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "full censorship",
+                "cname": "完全修正",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "anthology",
+                "cname": "选集",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "story arc",
+                "cname": "故事线",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "multi-work series",
+                "cname": "系列作品",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "incomplete",
+                "cname": "不完整",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "out of order",
+                "cname": "顺序错乱",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "sample",
+                "cname": "样本",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "scanmark",
+                "cname": "水印",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "novel",
+                "cname": "小说",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "caption",
+                "cname": "说明文字",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "animated",
+                "cname": "动图",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "themeless",
+                "cname": "无主题",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "webtoon",
+                "cname": "Webtoon",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "twins",
+                "cname": "双胞胎",
+                "info": ""
+            },
+            {
+                "type": 1,
+                "name": "",
+                "cname": "▼ 还没正式Tag的公司",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "samoyed smile",
+                "cname": "SAMOYED SMILE",
+                "info": ""
+            },
+            {
+                "type": 0,
+                "name": "moonstone honey",
+                "cname": "MOONSTONE Honey",
+                "info": ""
+            }
+        ]
+    }
+]
