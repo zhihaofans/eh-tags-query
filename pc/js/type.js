@@ -45,7 +45,7 @@ function writeTypes() {
     for (var a = 0; a < tags_date['tags'].length; a++) {
         var thisTag = tags_date['tags'][a];
         var ename = thisTag['name'];
-        var cname = thisTag['cname'];//.replace(/<[^>]+>/g,"");
+        var cname = thisTag['cname'].replace(/<[^>]+>/g,"");
         $('#tag_result > ul').append('<a href="javascript:;" onclick="mdui.snackbar({ message: \'复制成功\', timeout: 100 });" class="mdui-ripple copy-btn" data-clipboard-text="' + ename + '"><li class="mdui-list-item mdui-ripple "><div class="mdui-list-item-content"><div class="mdui-list-item-title mdui-list-item-one-line">' + ename + '</div><div class="mdui-list-item-text mdui-list-item-one-line">' + cname + '</div></div></li></a>');
     }
     mdui.snackbar({

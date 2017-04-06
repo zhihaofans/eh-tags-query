@@ -47,7 +47,9 @@ $('#submit').click(function () {
                 $('.back-to-index-button').show();
             }
             break;
-        case 'search':
+        default:
+            mdui.snackbar({ message: '暂时不支持', timeout: 100 });
+
     }
 });
 function writeTypeList() {

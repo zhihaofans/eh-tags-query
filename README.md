@@ -2,8 +2,6 @@
 
 这是一个查询`E-hentai`网站的TAG的中文翻译的网站。
 
-([`这是demo`](https://zhihaofans.coding.me/eh-tags-query))
-
 有PC页面和手机页面
 
 - PC页面: 使用了[`MDUI`](http://www.mdui.org) (推荐)
@@ -15,6 +13,10 @@
 # 更新日志:
 
 ### 手机页面
+
+*V0.3.1*:
+
+- 更新PC页面，去掉DEMO地址
 
 *V0.3*:
 
